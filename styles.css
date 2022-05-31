@@ -1,0 +1,32 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: brown;
+    font-size: 40px;
+}
+
+li {
+    text-align: center;
+    color: brown;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 800px;
+    height: auto;
+
+}
